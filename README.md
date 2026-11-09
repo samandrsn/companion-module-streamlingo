@@ -1,5 +1,7 @@
 # companion-module-streamlingo
 
+> **This repository has moved.** The Streamlingo module is now maintained at [bitfocus/companion-module-streamlingo-streamlingo](https://github.com/bitfocus/companion-module-streamlingo-streamlingo) and is available in Companion's module store. Please use that repository for new releases, issues and pull requests.
+
 A [Bitfocus Companion](https://bitfocus.io/companion) module for controlling [Streamlingo](https://streamlingo.net) live translation.
 
 Start, stop, pause and resume your Streamlingo conference from a Stream Deck or any other Companion surface, and show its status on your buttons.
